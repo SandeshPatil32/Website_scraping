@@ -1,0 +1,7 @@
+1. install require package using command
+   pip --package name--
+
+2. IDLE -> VS Code Studio and mongoDB desktop
+3. after all setup run main.py file
+
+
